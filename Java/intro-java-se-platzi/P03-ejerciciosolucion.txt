@@ -1,0 +1,5 @@
+Ejercicio #3
+
+    Se debe tener descargados los JDKs en los cuales se compilará.
+    se tiene que configurar los JAVA_HOME en función de la versión que se utlizara.
+    En el sistema operativo puede ser mac o windows, el procedimiento es el mismo.
